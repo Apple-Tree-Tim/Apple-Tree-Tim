@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Apple-Tree-Tim
-- 👀 I’m interested in React.js and Frontend developing
-- 🌱 I’m currently learning React.js and React Native.
-- 💞️ I’m looking to collaborate on every project.
-- 📫 How to reach me
+Calculator
+---
+<img src="Logotype primary.png" width="60%" height="60%" />
 
-<!---
-Apple-Tree-Tim/Apple-Tree-Tim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+
+
+
+Try It
+---
+
+[ahfarmer.github.io/calculator](https://ahfarmer.github.io/calculator/)
+
+
+
+Install
+---
+
+`npm install`
+
+
+
+Usage
+---
+
+`npm start`
