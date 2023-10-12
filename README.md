@@ -28,7 +28,7 @@
 
 --- 
 
-<img align="center" alt="Intel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IntelMin&show_icons=true&hide_border=true&theme=dark" />
-<img align="center" alt="Intel's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=IntelMin&hide_border=true&theme=dark" />
+<img align="center" alt="Tim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Apple-Tree-Tim&show_icons=true&hide_border=true&theme=dark" />
+<img align="center" alt="Tim's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Apple-Tree-Tim&hide_border=true&theme=dark" />
 
 ---
