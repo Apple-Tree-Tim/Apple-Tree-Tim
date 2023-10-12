@@ -1,10 +1,10 @@
-<h1 align="center"><img align="center" width="43" alt="Hi there!" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> Senior Blockchain Engineer</h1>
+<h1 align="center"><img align="center" width="43" alt="Hi there!" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> Senior MERN Stack & Blockchain Developer</h1>
 
 ## About
 
-😎 Trusted engineer with 8+ years of experience in blockchain industry.
+😎 Trusted expert with 8+ years of experience in MERN Stack.
 
-🔭 Spent multiple years building up blockchain infrastructure for several organizations with combined experience in FinTech, Software Engineering, and Blockchain Architecture.
+🔭 Spent multiple years building up so many MERN Stack Projects with combined experience in FinTech, Software Engineering, and Blockchain Architecture.
 
 🚀 Participated in the complete product development lifecycle of successfully launched projects based on cutting-edge technologies of DeFi and Cryptography.
 
