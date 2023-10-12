@@ -14,15 +14,7 @@
 
 👨‍🎓 Master of Science (Computer Science)
 
-## Short History
 
-- Software Engineer at <a href="https://github.com/hotg-ai">Hammer of the Gods</a>
-
-- Lead Blockchain Engineer at <a href="https://github.com/katanainu">Katana Inu</a>
-
-- Solution Architect & Blockchain Advisor at <a href="https://github.com/Datagen-Project">Datagen</a>
-
-- Senior Solidity Engineer at <a href="https://github.com/bird-money">Bird.Money</a>
 
 &emsp;...
 
