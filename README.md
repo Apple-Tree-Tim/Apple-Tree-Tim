@@ -1,4 +1,4 @@
-Calculator
+MERN Stack Developer
 ---
 <img src="Logotype primary.png" width="60%" height="60%" />
 
