@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +8,7 @@
 </head>
 <body>
 
-### Hi there 👋 I'm Lucas Wong 🙂
+### Hi there 👋 This is Tim Beamon 🙂
 <div align="center">
 	<br>
   <img src="about-me.svg" width="800" height="auto" alt="Click to see the source">
@@ -18,10 +17,10 @@
 ### **Contact Me**
 
 <p align='center'>
-  <a href="https://t.me/clox1118">
+  <a href="https://t.me/@FullStackDeveloper1220">
     <img src="https://img.shields.io/badge/telegram-26A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:wm111898@gmail.com">
+  <a href="mailto:TimBeamon11910@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
