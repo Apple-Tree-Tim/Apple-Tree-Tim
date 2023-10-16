@@ -17,7 +17,7 @@
 ### **Contact Me**
 
 <p align='center'>
-  <a href="https://t.me/@FullStackDeveloper1220">
+  <a href="https://t.me/FullStackDeveloper1220">
     <img src="https://img.shields.io/badge/telegram-26A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:TimBeamon11910@gmail.com">
