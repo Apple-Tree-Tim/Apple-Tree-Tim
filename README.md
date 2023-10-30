@@ -117,6 +117,4 @@
 <a class='Most-used-languages' href='https://github.com/Apple-Tree-Tim'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Apple-Tree-Tim&layout=compact' />
 </div>
 
-<img align="center" alt="Tim's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Apple-Tree-Tim&hide_border=true&theme=dark" />
-
 ---
