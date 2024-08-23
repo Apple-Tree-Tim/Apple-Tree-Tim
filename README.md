@@ -8,7 +8,7 @@
 </head>
 <body>
 
-### Hi there 👋 This is Oliver Lim 🙂
+### Hi there 👋 This is Sinke Lete 🙂
 <div align="center">
 	<br>
   <img src="about-me.svg" width="800" height="auto" alt="Click to see the source">
